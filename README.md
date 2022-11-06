@@ -1,5 +1,5 @@
 - 👋 Hi, I’m gaurav
-- 👀 I’m interested in Algorithms
+- 👀 I’m interested in Algorithmic Optimisation
 - 🌱 I’m currently learning Quantitative Trading
 - you can contact me on www.codeforces.com/profile/IGM_BY_2023
 <!---
